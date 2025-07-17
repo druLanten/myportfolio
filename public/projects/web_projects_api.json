@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "ZCC Website Complete Redesign",
+    "slug": "zcc-website-complete-redesign",
+    "overview": "Undertook a full redesign and rebranding of the ZCC website to give it a modern, user-friendly interface with improved performance, better content structure, and seamless payment integration.",
+    "problem": "The client’s existing website was outdated, hard to navigate, lacked mobile responsiveness, and didn’t reflect the organization's vision or mission effectively. They needed a fresh design with improved aesthetics and a clear structure for their visitors.",
+    "howWeMet": "Zimbabwe Council of Churches was my Employer at that time.",
+    "outcomeImages": ["web_project1_1.jpg", "web_project1_2.jpg", "web_project1_3.jpg"],
+    "technologiesUsed": ["WordPress", "Elementor", "Paynow API"],
+    "lessonsLearnt": "Learned to manage a full website rebranding project with attention to stakeholder feedback and deadline constraints. Also gained experience in optimizing WordPress for both desktop and mobile users, and handling third-party API payment integrations in a user-friendly way.",
+    "designProcess": "The project began with a comprehensive audit of the existing site to identify weak points in structure, speed, and user engagement. I facilitated client interviews to understand their vision and mission more deeply, then translated these into design wireframes using Elementor. I developed custom layouts and sections to improve content flow and responsiveness. Paynow was integrated to allow for donations and event payments directly on the site. Throughout the process, I prioritized SEO-friendly architecture and optimized all visual elements for faster load times. The result was a polished and responsive website that aligns with the brand's goals and is easy for the client to update.",
+    "returnClient": true
+  },
+  {
+    "id": 2,
+    "title": "Capacity Building Centre for Africa Website Development",
+    "slug": "capacity-building-centre-africa",
+    "overview": "Developed a dynamic, full-stack organizational website tailored for Capacity Building Centre for Africa, featuring modern aesthetics, event registration with automated emails, and secure payment handling.",
+    "problem": "The organization was looking to establish its online presence through a comprehensive platform that could handle program listings, user registrations for events, online payments, and seamless communication with users.",
+    "howWeMet": "Reached out to me via LinkedIn randomly, to this day I don't know how they new I develop website, probably a referral.",
+    "outcomeImages": ["web_project2_1.jpg", "web_project2_2.jpg", "web_project2_3.jpg"],
+    "technologiesUsed": ["React", "Express.js", "MongoDB", "Node.js", "Paynow API", "EmailJS"],
+    "lessonsLearnt": "Gained deeper insight into building secure, scalable MERN stack applications with real-world integrations. Also learned how to create intuitive registration workflows and incorporate third-party services like payment and email APIs.",
+    "designProcess": "The build started with requirement gathering and designing the information architecture. I structured the backend using Express.js and MongoDB to manage event data and user registration. React was used to craft a highly interactive frontend, while Paynow was integrated to allow event participants to pay via multiple channels. EmailJS handled automated confirmations and follow-ups to streamline communication. Particular attention was paid to mobile responsiveness, data validation, and backend security. I also created an admin dashboard for internal management. The final solution was not only functional and beautiful but also positioned the organization as a professional and trustworthy institution online.",
+    "returnClient": true
+  }
+]
